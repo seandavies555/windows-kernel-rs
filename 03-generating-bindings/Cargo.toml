@@ -1,5 +1,5 @@
 [package]
-name = "03-generating-bindings"
+name = "generating-bindings"
 version = "0.1.0"
 edition = "2018"
 
